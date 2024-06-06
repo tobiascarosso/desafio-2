@@ -1,0 +1,21 @@
+#conteiner{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+
+#conteiner img{
+    width: 30%;
+    margin: 1.4%;
+}
+.titulo{
+    margin-left: 42%;
+    font-size: 40px;
+    text-transform: uppercase;
+    border-bottom: 2px dashed red;
+    width: 18%;
+    padding-bottom: 5px;
+}
+body{
+    font-family: Verdana;
+}
